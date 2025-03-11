@@ -9,6 +9,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/xgnvan3jr6sh5emkkw081tq9r">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xgnvan3jr6sh5emkkw081tq9r&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYxeDQ1ZjlybTBrbXl1ZjIwM2N2bzltdzR2MW1yYWl3aWptNnIycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif"  />
 
 ###
