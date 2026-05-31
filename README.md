@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Walid and I'm a student from IES Ebre<br>In this moment I am studying DAM (Multiplatform Application development)</h2>
+<h5>See more in my <a href="https://github.com/wld06">personal github account</a></h5>
 
 ###
 
